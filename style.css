@@ -11,22 +11,32 @@ body{
 .cabecalho {
     background-color: #000000;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
     padding: 24px 0;
 }
 
-.cabecalho-titulo{
+.cabecalho-lista {
+    display: inline-block;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 800;
-    font-size: 50px;
+    font-size: 25px;
     line-height: 40px;
+    color: #FFFFFF;
+    justify-content: start;
+}
+
+.cabecalho-titulo {
+    display: inline-block;
     text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 40px;
     color: #FFFFFF;
 }
 
-.simulacao {
+.simulacao{
     background: rgba(217, 217, 217, 0.5);
     color: white;
     display: flex;
