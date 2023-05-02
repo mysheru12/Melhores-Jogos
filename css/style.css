@@ -120,6 +120,29 @@ body {
     
     
 }
+#items .itemsgrupo .conteudo .descricao3{
+    width:100%;
+    width: 300px;
+    display: block;
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    background-color: rgba(245, 245, 220, 1);
+    padding-bottom: 40px;
+
+    
+    
+}
+#items .itemsgrupo .conteudo .imgjogo2{
+    width:100%;
+    width: 300px;
+    display: block;
+    float: left;
+    background-color: rgba(245, 245, 220, 1);
+    
+    
+}
 
 #rodape{
     background-color: #0c0c0c;
