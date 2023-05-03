@@ -144,6 +144,18 @@ body {
     
 }
 
+#items .itemsgrupo .simulacao-titulo1{
+width: 100%;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 35px;
+line-height: 80px;
+text-align: center;
+color: #FFFFFF;
+background-color: #0c0c0c;
+}
+
 #rodape{
     background-color: #0c0c0c;
     display: block;
